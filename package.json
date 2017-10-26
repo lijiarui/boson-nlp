@@ -1,0 +1,15 @@
+{
+  "name": "boson-nlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bosonnlp": "^0.1.0"
+  }
+}
